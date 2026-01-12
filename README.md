@@ -1,10 +1,3 @@
-# TMD DPBO 2025
-
-## Janji
-Saya Abdurrahman Rauf Budiman dengan NIM 2301102 mengerjakan evaluasi Tugas Masa Depan dalam mata kuliah
-Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya
-tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-
 ## Fishbound
 Game ini merupakan game 2D Pixelated dengan menggunakan tile-based map system dimana peta/map disusun dari potongan gambar kecil (16x16) pixel tile. 
 
